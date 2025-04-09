@@ -7,11 +7,11 @@ Ideal tanto para iniciantes quanto para quem quer revisar fundamentos.
 
 ## 💻 Projetos
 
-📂 Sistema de Biblioteca Simples (Java Puro) ✅ Concluído
+📂 Sistema de Gestão de Tarefas (Java Puro) ✅ Concluído
 
-📂 Jogo de Adivinhação (Java Puro) 🔁 Em breve
+📂 Sistema de Caixa Eletrônico (Java Puro) 🔁 Em breve
 
-📂 Sistema de Tarefas (Java Puro) 🔁 Em breve
+📂 Sistema de Controle de Estoque (Java Puro) 🔁 Em breve
 
 
 ## 📂 Estrutura
@@ -20,7 +20,6 @@ Cada exercício está organizado na sua própria pasta, com uma estrutura modula
 
 #### Exemplo:
 ├── 1-Sistema de Biblioteca Simples/
-└── src/
 ├── model/ │
 └── Livro.java
 ...
