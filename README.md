@@ -9,7 +9,7 @@ Ideal tanto para iniciantes quanto para quem quer revisar fundamentos.
 
 📂 Sistema de Gestão de Tarefas (Java Puro) ✅ Concluído
 
-📂 Sistema de Caixa Eletrônico (Java Puro) 🔁 Em breve
+📂 Sistema de Caixa Eletrônico (Java Puro) ✅ Concluído
 
 📂 Sistema de Controle de Estoque (Java Puro) 🔁 Em breve
 

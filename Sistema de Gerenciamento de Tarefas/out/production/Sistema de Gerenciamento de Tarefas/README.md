@@ -29,10 +29,13 @@ Começo:
 
 ## 🧪 Teste e Execução das funcionalidades:
 
-- Adicionar nova tarefa
-- Listar todas as tarefas
-- Marcar tarefa como concluída
-- Editar descrição da tarefa
-- Remover tarefa
-- Filtrar tarefas por status (pendente/concluída)
+- Adicionar nova tarefa ✅
+- Listar todas as tarefas ✅
+- Marcar tarefa como concluída ✅
+- Editar descrição da tarefa ✅
+- Remover tarefa ✅
+- Filtrar tarefas por status (pendente/concluída) ✅
+
+- Começo: 09/04/24 19:15
+- Término: 09/04/24 19:30
 
